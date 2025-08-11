@@ -4,6 +4,9 @@
 This project is a **Conversational AI Chatbot** built using [Flowise AI](https://flowiseai.com/) that leverages **Google Gemini** for natural language understanding and **Upstash Redis** for long-term conversation memory. It is designed to handle friendly, context-aware, and detailed conversations with persistent memory across sessions.
 
 ---
+<img width="1366" height="629" alt="Image" src="https://github.com/user-attachments/assets/55da4076-64f7-4fc4-b95e-64c2f9f0055d" />
+<img width="1366" height="615" alt="Image" src="https://github.com/user-attachments/assets/1ad58293-e1d7-49a3-9f41-c0581f4f5690" />
+
 
 ## 📌 Features
 
